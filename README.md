@@ -1,16 +1,107 @@
-## Hi there 👋
+<h1 align="center">🧠 Yash Kumar</h1>
 
-<!--
-**Yash6163/Yash6163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Building+Intelligent+Systems;Cybersecurity+Learner;Future+AI+Engineer" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20%7C%20ML-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-2CB67D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-FF8906?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+<table>
+<tr>
+<td>
+
+* 🎓 B.Tech @ JIIT Noida
+* 🤖 AI, ML & NLP Learner
+* 🔐 Exploring AI in Cybersecurity
+* ⚡ Building real-world projects
+* 🎯 Goal: AI Engineer
+
+</td>
+<td>
+
+```python
+class Yash:
+    def focus(self):
+        return ["AI", "ML", "Security"]
+
+    def mission(self):
+        return "Build intelligent systems 🚀"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mongodb,linux,git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project              | Description                                    |
+| -------------------- | ---------------------------------------------- |
+| 🧠 Amnesia Prototype | AI-based voice recognition & memory simulation |
+| 🏥 MediVault         | Blockchain-powered healthcare system           |
+| 🛡️ Sentinel-JIT     | Deception-based cybersecurity system           |
+
+---
+
+## 📊 AI Metrics (GitHub Analytics)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yash6163&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0&icon_color=2CB67D"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash6163&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash6163&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash6163&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🤖 AI, ML & NLP
+* 🔐 AI in Cybersecurity
+* ⚡ Building impactful projects
+* 🎯 Internship Preparation (2026)
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="mailto:yashmail2trade@gmail.com">📧 Email</a> • 
+<a href="https://github.com/Yash6163">💻 GitHub</a>
+</p>
+
+---
+
+<p align="center">
+✨ <b>"Turning data into intelligence, and intelligence into impact."</b> ✨
+</p>
