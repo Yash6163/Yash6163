@@ -96,7 +96,7 @@ class Yash:
 ## 🌐 Connect
 
 <p align="center">
-<a href="mailto:yashmail2trade@gmail.com">📧 Email</a> • 
+<a href="mailto:yashmailtotrade@gmail.com">📧 Email</a> • 
 <a href="https://github.com/Yash6163">💻 GitHub</a>
 </p>
 
