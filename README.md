@@ -55,6 +55,7 @@ class Yash:
 | Project              | Description                                    |
 | -------------------- | ---------------------------------------------- |
 | 🧠 Amnesia Prototype | AI-based voice recognition & memory simulation |
+| BITSCOPE             | Machine Learning Based BITCOIN price prediction system|
 | 🏥 MediVault         | Blockchain-powered healthcare system           |
 | 🛡️ Sentinel-JIT     | Deception-based cybersecurity system           |
 
